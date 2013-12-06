@@ -1,4 +1,4 @@
 iut
 ===
 
-Projet du cours de déboguage
+Projet du cours de déboguage de l'IUT.
